@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=lklima&count_private=true&show_icons=true&theme=dracula)
+
+## Follow me on [@lima_lucas3](https://twitter.com/lima_lucas3)
 <!--
 **lklima/lklima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
